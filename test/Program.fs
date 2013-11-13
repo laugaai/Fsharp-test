@@ -6,4 +6,5 @@ let squaredNumbers = List.map square numbers
 printfn "SquaredNumbers = %A" squaredNumbers
 open System
 printfn "(press any key to continue)"
+
 Console.ReadKey(true)
